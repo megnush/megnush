@@ -20,7 +20,7 @@ Name: MEGNUSH
 👋 About Me
 - I am a passionate and experienced software developer with expertise in a diverse set of technologies such as SQL, web publishing, app development, Android Studio, Python, Excel, HTML, and CSS. I love solving complex problems and creating user-friendly solutions for various platforms.
 
-🛠 Skills & Expertise
+- 🛠 Skills & Expertise
 -SQL
 -Proficient in writing complex queries, optimizing performance, and designing efficient database schemas.
 -Experienced in working with MySQL, PostgreSQL, and SQL Server.
@@ -33,16 +33,16 @@ Name: MEGNUSH
 -Android Studio
 Expert in building, testing, and debugging Android applications.
 Familiar with various Android APIs, libraries, and best practices.
-Python
+- Python
 Proficient in developing applications, automating tasks, and data manipulation using Python.
 Familiar with popular Python libraries such as Django, Flask, Pandas, and NumPy.
-Excel
+- Excel
 Skilled in advanced Excel functionalities like pivot tables, VLOOKUP, and macros.
 Experienced in data analysis, visualization, and spreadsheet management.
-HTML & CSS
+- HTML & CSS
 Expert in creating responsive and user-friendly web designs using HTML5, CSS3, and frameworks like Bootstrap.
 Familiar with accessibility best practices and cross-browser compatibility.
-🌐 GitHub Repositories
+- 🌐 GitHub Repositories
 Feel free to check out some of my repositories on GitHub showcasing my work and projects:
 
 SQL Projects Repository
