@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 Name: MEGNUSH
 
 👋 About Me
-I am a passionate and experienced software developer with expertise in a diverse set of technologies such as SQL, web publishing, app development, Android Studio, Python, Excel, HTML, and CSS. I love solving complex problems and creating user-friendly solutions for various platforms.
+- I am a passionate and experienced software developer with expertise in a diverse set of technologies such as SQL, web publishing, app development, Android Studio, Python, Excel, HTML, and CSS. I love solving complex problems and creating user-friendly solutions for various platforms.
 
 🛠 Skills & Expertise
-SQL
-Proficient in writing complex queries, optimizing performance, and designing efficient database schemas.
-Experienced in working with MySQL, PostgreSQL, and SQL Server.
-Web Publishing
-Proficient in creating and managing websites and web applications using various content management systems like WordPress, Joomla, and Drupal.
-Skilled in optimizing website performance and implementing SEO best practices.
-App Development
-Experienced in building cross-platform mobile applications using technologies like React Native and Flutter.
-Proficient in native Android app development using Android Studio, Java, and Kotlin.
-Android Studio
+-SQL
+-Proficient in writing complex queries, optimizing performance, and designing efficient database schemas.
+-Experienced in working with MySQL, PostgreSQL, and SQL Server.
+-Web Publishing
+-Proficient in creating and managing websites and web applications using various content management systems like WordPress, Joomla, and Drupal.
+-Skilled in optimizing website performance and implementing SEO best practices.
+-App Development
+-Experienced in building cross-platform mobile applications using technologies like React Native and Flutter.
+-Proficient in native Android app development using Android Studio, Java, and Kotlin.
+-Android Studio
 Expert in building, testing, and debugging Android applications.
 Familiar with various Android APIs, libraries, and best practices.
 Python
