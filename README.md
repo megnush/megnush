@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name: MEGNUSH
+Name: MEGNUSH (IndianGPT)
 
 👋 About Me
 - I am a passionate and experienced software developer with expertise in a diverse set of technologies such as SQL, web publishing, app development, Android Studio, Python, Excel, HTML, and CSS. I love solving complex problems and creating user-friendly solutions for various platforms.
