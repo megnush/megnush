@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**megnush/megnush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tachy/Tachy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name: MEGNUSH (IndianGPT)
+Name: Tachy (IndianGPT)
 
 👋 About Me
 - I am a passionate and experienced software developer with expertise in a diverse set of technologies such as SQL, web publishing, app development, Android Studio, Python, Excel, HTML, and CSS. I love solving complex problems and creating user-friendly solutions for various platforms.
@@ -53,7 +53,7 @@ React Native Projects
 📫 How to Reach Me
 If you'd like to get in touch or collaborate on a project, feel free to reach out to me via:
 
-Email: megnush@gmail.com
-LinkedIn: https://www.linkedin.com/in/megnush/
+Email: Tachy@gmail.com
+LinkedIn: https://www.linkedin.com/in/Tachy/
 Twitter: @indiangpt
 🔗 Back to my GitHub profile
