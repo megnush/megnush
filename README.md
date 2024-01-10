@@ -53,7 +53,7 @@ React Native Projects
 📫 How to Reach Me
 If you'd like to get in touch or collaborate on a project, feel free to reach out to me via:
 
-Email: Tachy@gmail.com
+Email: Tachyneo@gmail.com
 LinkedIn: https://www.linkedin.com/in/Tachy/
 Twitter: @indiangpt
 🔗 Back to my GitHub profile
